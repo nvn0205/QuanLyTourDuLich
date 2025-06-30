@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/NVN/Documents/QuanLyTourDuLich/src/View/Welcome.java</file>
+            <file>file:/C:/Users/NVN/Documents/QuanLyTourDuLich/src/BLL/DatTourBLL.java</file>
+            <file>file:/C:/Users/NVN/Documents/QuanLyTourDuLich/src/View/QuanLyTourForm.java</file>
+            <file>file:/C:/Users/NVN/Documents/QuanLyTourDuLich/src/BLL/TourBLL.java</file>
+            <file>file:/C:/Users/NVN/Documents/QuanLyTourDuLich/src/View/QuanLyKhachHangForm.java</file>
+            <file>file:/C:/Users/NVN/Documents/QuanLyTourDuLich/src/BLL/KhachHangBLL.java</file>
+            <file>file:/C:/Users/NVN/Documents/QuanLyTourDuLich/src/DAL/KhachHangDAL.java</file>
+            <file>file:/C:/Users/NVN/Documents/QuanLyTourDuLich/src/View/QuanLyDoiTacForm.java</file>
+            <file>file:/C:/Users/NVN/Documents/QuanLyTourDuLich/src/BLL/DoiTacBLL.java</file>
+            <file>file:/C:/Users/NVN/Documents/QuanLyTourDuLich/src/DAL/DoiTacDAL.java</file>
+            <file>file:/C:/Users/NVN/Documents/QuanLyTourDuLich/src/View/MainForm.java</file>
+            <file>file:/C:/Users/NVN/Documents/QuanLyTourDuLich/src/View/Dashboard.java</file>
+            <file>file:/C:/Users/NVN/Documents/QuanLyTourDuLich/src/View/component/Menu.java</file>
+            <file>file:/C:/Users/NVN/Documents/QuanLyTourDuLich/src/View/component/MenuItem.java</file>
+            <file>file:/C:/Users/NVN/Documents/QuanLyTourDuLich/src/View/component/MenuListener.java</file>
+            <file>file:/C:/Users/NVN/Documents/QuanLyTourDuLich/src/View/component/Model_Card.java</file>
+            <file>file:/C:/Users/NVN/Documents/QuanLyTourDuLich/src/View/component/Card.java</file>
+            <file>file:/C:/Users/NVN/Documents/QuanLyTourDuLich/src/View/QuanLyNhanVienForm.java</file>
+            <file>file:/C:/Users/NVN/Documents/QuanLyTourDuLich/src/Entities/NhanVien.java</file>
+            <file>file:/C:/Users/NVN/Documents/QuanLyTourDuLich/src/DAL/NhanVienDAL.java</file>
+            <file>file:/C:/Users/NVN/Documents/QuanLyTourDuLich/src/BLL/NhanVienBLL.java</file>
+        </group>
+    </open-files>
+</project-private>
